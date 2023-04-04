@@ -1,0 +1,49 @@
+@font-face {
+    font-family: Magic;
+    font-style: normal;
+    src: url("../fonts/MagicOwlPersonalUse-WyO0O.otf");
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: Alloy;
+    font-style: normal;
+    src: url("../fonts/AlloyInk-nRLyO.ttf");
+    font-display: swap;
+  }
+  @font-face {
+    font-family: Morning;
+    font-style: normal;
+    src: url("../fonts/MorningRainbow-WyL8n.ttf");
+    font-display: swap;
+  }
+  @font-face {
+    font-family: Vanilla;
+    font-style: normal;
+    src: url("../fonts/VanillaDreamers-9Y7pK.otf");
+    font-display: swap;
+  }
+  @font-face {
+    font-family: Grot;
+    font-style: normal;
+    src: url("../fonts/GrotleyItalic-7BD9D.otf");
+    font-display: swap;
+  }
+  @font-face {
+    font-family: Blueberry;
+    font-style: normal;
+    src: url("../fonts/BlueberryDays-3zyK3.otf");
+    font-display: swap;
+  }
+  @font-face {
+    font-family: Candyful;
+    font-style: normal;
+    src: url("../fonts/Candyful-YzO7q.otf");
+    font-display: swap;
+  }
+  @font-face {
+    font-family: Radion;
+    font-style: normal;
+    src: url("../fonts/Radionregular-axj5g.otf");
+    font-display: swap;
+  }
