@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/mcqregister/static/css/main.46234640.css",
+    "main.js": "/mcqregister/static/js/main.817dcab8.js",
+    "static/js/787.0334b2c8.chunk.js": "/mcqregister/static/js/787.0334b2c8.chunk.js",
+    "static/media/sclkids.png": "/mcqregister/static/media/sclkids.8cc1b0944211fff4241e.png",
+    "static/media/Candyful-YzO7q.otf": "/mcqregister/static/media/Candyful-YzO7q.a6654e198d76fc54a3ab.otf",
+    "static/media/Frame 1.png": "/mcqregister/static/media/Frame 1.b8154f8a0de08a771686.png",
+    "static/media/Radionregular-axj5g.otf": "/mcqregister/static/media/Radionregular-axj5g.06046ce810944eaeb1e2.otf",
+    "static/media/MagicOwlPersonalUse-WyO0O.otf": "/mcqregister/static/media/MagicOwlPersonalUse-WyO0O.f311997d89cd2e287dc7.otf",
+    "static/media/AlloyInk-nRLyO.ttf": "/mcqregister/static/media/AlloyInk-nRLyO.d96acdbe2b8a63cb98b9.ttf",
+    "static/media/MorningRainbow-WyL8n.ttf": "/mcqregister/static/media/MorningRainbow-WyL8n.bf3629dcb759e9e38293.ttf",
+    "static/media/BlueberryDays-3zyK3.otf": "/mcqregister/static/media/BlueberryDays-3zyK3.b59d06b3716dc658f893.otf",
+    "static/media/formbg.png": "/mcqregister/static/media/formbg.b3f180776946b24ee3e9.png",
+    "static/media/VanillaDreamers-9Y7pK.otf": "/mcqregister/static/media/VanillaDreamers-9Y7pK.4fc4b875f3eac70450c4.otf",
+    "static/media/GrotleyItalic-7BD9D.otf": "/mcqregister/static/media/GrotleyItalic-7BD9D.f12daf3f2a974bb0752f.otf",
+    "static/media/logo.svg": "/mcqregister/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mcqregister/index.html",
+    "main.46234640.css.map": "/mcqregister/static/css/main.46234640.css.map",
+    "main.817dcab8.js.map": "/mcqregister/static/js/main.817dcab8.js.map",
+    "787.0334b2c8.chunk.js.map": "/mcqregister/static/js/787.0334b2c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46234640.css",
+    "static/js/main.817dcab8.js"
+  ]
+}
