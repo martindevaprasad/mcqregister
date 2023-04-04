@@ -1,17 +1,235 @@
-*{
-    padding: 0;
-    margin: 0;
+* {
+  padding: 0;
+  margin: 0;
 }
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+.mainpage {
+  background: #000;
+  height: auto;
+  width: auto;
+}
+
+.marquebg {
+  background: #28c0ec;
+  height: 10vh;
+  width: 100%;
+  transform: rotate(-4deg);
+  overflow: hidden;
+  margin-top: 50px;
+  border-top: 4px solid #fff;
+  border-bottom: 4px solid #fff;
+  position: sticky;
+}
+.marquebg1 {
+  background: #ea21c7;
+  height: 10vh;
+  width: 100%;
+  transform: rotate(4deg);
+  overflow: hidden;
+  margin-top: 50px;
+  border-top: 4px solid #fff;
+  border-bottom: 4px solid #fff;
+  position: sticky;
+}
+
+.inputform {
+  width: 500px;
+  height: 60px;
+  border-radius: 0px;
+  box-shadow: 6px 6px 0 0 #c512eb;
+  background: #000;
+  color: #fff;
+  font-family: Radion;
+  font-size: 24px;
+  border: 2px solid #fff;
+}
+.inputform1 {
+  width: 500px;
+  height: 60px;
+  border-radius: 0px;
+  box-shadow: 6px 6px 0 0 #12b8eb;
+  background: #000;
+  color: #fff;
+  font-family: Radion;
+  font-size: 24px;
+  border: 2px solid #fff;
+}
+
+.btun {
+  background-image: linear-gradient(
+    to right top,
+    #1774b2,
+    #0271d0,
+    #4868e7,
+    #8753f1,
+    #c512eb
+  );
+  color: #fff;
+  font-family: Radion;
+  font-size: 24px;
+}
+
+h1{
+  font-size: 132px;
+  color: #fff;
+  font-family: Radion;
+
+}
+
+h2 {
+  font-size: 54px;
+  font-weight: 600;
+  font-family: Radion;
+  color: #fff;
+}
+.gradtext {
+  background: -webkit-linear-gradient(45deg, #ea21c7 30%, #4799f8 90%);
+  font-family: Blueberry;
+  text-transform: none;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.formposition {
+  position: absolute;
+  left: 70vh;
+  top: 20vh;
+}
+
+.gridcontainer{
+  margin-top: 25vh;
+}
+
+.gridline{
+  width: 50%;
+  background-attachment: fixed;
+}
+.kidpng{
+  width: 50%;
+  margin-top: -12vh;
+}
+
+.logo{
+  width: 150px;
+}
+
+.navbar{
+  background: #2A2A2A;
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+ 
+  .mainpage {
+    background: #000;
+    height: auto;
+    width: auto;
+  }
+
+  .gridline{
+    width: 100%;
+    background-attachment: fixed;
+  }
+  .formposition {
+    position: absolute;
+    left: 11vh;
+    top: 3.5vh;
+  }
+
+  .inputform {
+    width: 200px;
+    height: 30px;
+    border-radius: 0px;
+    box-shadow: 6px 6px 0 0 #c512eb;
+    background: #000;
+    color: #fff;
+    font-family: Radion;
+    font-size: 16px;
+    border: 2px solid #fff;
+  }
+  .inputform1 {
+    width: 200px;
+    height: 30px;
+    border-radius: 0px;
+    box-shadow: 6px 6px 0 0 #12b8eb;
+    background: #000;
+    color: #fff;
+    font-family: Radion;
+    font-size: 16px;
+    border: 2px solid #fff;
+  }
+  
+  .btun {
+    background-image: linear-gradient(
+      to right top,
+      #1774b2,
+      #0271d0,
+      #4868e7,
+      #8753f1,
+      #c512eb
+    );
+    color: #fff;
+    font-family: Radion;
+    font-size: 14px;
+    width: 200px;
+    height: 30px;
+    
+  }
+
+  .kidpng{
+    width: 100%;
+    margin-top: -12vh;
+  }
+  h1{
+    font-size: 50px;
+    color: #fff;
+    font-family: Radion;
+  
+  }
+  .marquebg {
+    background: #28c0ec;
+    height: 5vh;
+    width: 100%;
+    transform: rotate(-4deg);
+    overflow: hidden;
+    margin-top: 22px;
+    border-top: 2px solid #fff;
+    border-bottom: 2px solid #fff;
+    position: sticky;
+  }
+  .marquebg1 {
+    background: #ea21c7;
+    height: 5vh;
+    width: 100%;
+    transform: rotate(4deg);
+    overflow: hidden;
+    margin-top: -55px;
+    border-top: 2px solid #fff;
+    border-bottom: 2px solid #fff;
+    position: sticky;
+  }
+
+  h2 {
+    font-size: 24px;
+    font-weight: 500;
+    font-family: Radion;
+    color: #fff;
+  }
+  
+  .gridcontainer{
+    margin-top: 10vh;
+  }
+ 
 }
