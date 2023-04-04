@@ -127,7 +127,7 @@ h2 {
 }
 
 .navbar{
-  background: #2A2A2A;
+  background: rgba(79, 79, 79, 0.679);
 }
 
 @media (min-width: 320px) and (max-width: 480px) {
